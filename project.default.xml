@@ -1,35 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
-      <component name="PhpDebugGeneral" xdebug_debug_port="9003" />
-      <component name="PhpUnit">
-        <phpunit_settings>
-          <PhpUnitSettings />
-        </phpunit_settings>
-      </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>SQL</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Blade files</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -39,11 +10,6 @@
         <OptionsSetting value="true" id="Edit" />
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="go" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="configurable.Global.libraries.is.expanded" value="true" />
       </component>
     </defaultProject>
   </component>

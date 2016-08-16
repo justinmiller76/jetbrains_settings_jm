@@ -1,0 +1,27 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+        <option name="composeExecPath" value="/Applications/Docker.app/Contents/Resources/bin/docker-compose" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/dev/clicktripz.machine-learning/trunk" />
+              <option name="virtualMachinePath" value="/usr/src/mlserver/src" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/dev/clicktripz.machine-learning/models" />
+              <option name="virtualMachinePath" value="/usr/src/mlserver/models" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/dev/clicktripz.machine-learning/config" />
+              <option name="virtualMachinePath" value="/usr/src/mlserver/config" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
