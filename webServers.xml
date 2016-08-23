@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c7772fb8-00a2-4481-bca8-83cee04e9903" name="CT Dev" url="http://dev.clicktripz.com">
-        <fileTransfer host="dev.clicktripz.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/justin" accessType="SFTP" keyPair="true">
+        <fileTransfer host="dev.clicktripz.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/justin" accessType="SFTP" username="justin" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
