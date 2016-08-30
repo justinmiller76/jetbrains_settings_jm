@@ -1479,7 +1479,7 @@
         <entry key="Cylon" value="" />
         <entry key="CypressCapsense_I2C" value="" />
         <entry key="Cyther" value="" />
-        <entry key="Cython" value="" />
+        <entry key="Cython" value="0.24.1" />
         <entry key="CythonGSL" value="" />
         <entry key="Cytoplasm" value="" />
         <entry key="D2LValence" value="" />
@@ -15257,7 +15257,7 @@
         <entry key="boto-patch" value="" />
         <entry key="boto-s3-shim" value="" />
         <entry key="boto-scripts" value="" />
-        <entry key="boto3" value="" />
+        <entry key="boto3" value="1.4.0" />
         <entry key="boto3_paste" value="" />
         <entry key="boto3_policygen" value="" />
         <entry key="boto3_retry" value="" />
@@ -15266,7 +15266,7 @@
         <entry key="boto_addins" value="" />
         <entry key="boto_rsync" value="" />
         <entry key="boto_utils" value="" />
-        <entry key="botocore" value="" />
+        <entry key="botocore" value="1.4.49" />
         <entry key="botocore-tornado" value="" />
         <entry key="botocore_paste" value="" />
         <entry key="botocorev063p" value="" />
@@ -31734,7 +31734,7 @@
         <entry key="document_it" value="" />
         <entry key="documentation" value="" />
         <entry key="documenteer" value="" />
-        <entry key="docutils" value="" />
+        <entry key="docutils" value="0.12" />
         <entry key="docutils-aafigure" value="" />
         <entry key="docutils-ast-writer" value="" />
         <entry key="docutils-htmlwriter" value="" />
@@ -43911,7 +43911,7 @@
         <entry key="jmbo-your-words" value="" />
         <entry key="jmc" value="" />
         <entry key="jme" value="" />
-        <entry key="jmespath" value="" />
+        <entry key="jmespath" value="0.9.0" />
         <entry key="jmespath-terminal" value="" />
         <entry key="jmespathv041p" value="" />
         <entry key="jmpy" value="" />
@@ -43935,7 +43935,7 @@
         <entry key="jobcontrol" value="" />
         <entry key="jobexcel" value="" />
         <entry key="jobid" value="" />
-        <entry key="joblib" value="" />
+        <entry key="joblib" value="0.10.2" />
         <entry key="jobmanager" value="" />
         <entry key="jobmanager-api" value="" />
         <entry key="jobmanager-client" value="" />
@@ -54205,7 +54205,7 @@
         <entry key="numpee" value="" />
         <entry key="numpngw" value="" />
         <entry key="numprops" value="" />
-        <entry key="numpy" value="" />
+        <entry key="numpy" value="1.11.1" />
         <entry key="numpy-indexed" value="" />
         <entry key="numpy-mkl" value="" />
         <entry key="numpy-pypy" value="" />
@@ -57999,7 +57999,7 @@
         <entry key="pion" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -60184,7 +60184,7 @@
         <entry key="psycopg" value="" />
         <entry key="psycopg-ct" value="" />
         <entry key="psycopg-postgis" value="" />
-        <entry key="psycopg2" value="" />
+        <entry key="psycopg2" value="2.6.2" />
         <entry key="psycopg2-ct" value="" />
         <entry key="psycopg2-dateutils" value="" />
         <entry key="psycopg2-managed-connection" value="" />
@@ -66235,7 +66235,7 @@
         <entry key="python-datemath" value="" />
         <entry key="python-datetime-tz" value="" />
         <entry key="python-datetime2" value="" />
-        <entry key="python-dateutil" value="" />
+        <entry key="python-dateutil" value="2.5.3" />
         <entry key="python-db" value="" />
         <entry key="python-dbusmock" value="" />
         <entry key="python-dbusx" value="" />
@@ -72196,7 +72196,7 @@
         <entry key="scikit-gpuppy" value="" />
         <entry key="scikit-image" value="" />
         <entry key="scikit-kinematics" value="" />
-        <entry key="scikit-learn" value="" />
+        <entry key="scikit-learn" value="0.17.1" />
         <entry key="scikit-learn_runnr" value="" />
         <entry key="scikit-moletools" value="" />
         <entry key="scikit-monaco" value="" />
@@ -72251,7 +72251,7 @@
         <entry key="sciplot-pyqt" value="" />
         <entry key="sciplotpy" value="" />
         <entry key="sciproc" value="" />
-        <entry key="scipy" value="" />
+        <entry key="scipy" value="0.18.0" />
         <entry key="scipy-data_fitting" value="" />
         <entry key="scipydirect" value="" />
         <entry key="scirocco-pyclient" value="" />
@@ -73149,7 +73149,7 @@
         <entry key="setuppycheck" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="26.1.1" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
@@ -74234,7 +74234,7 @@
         <entry key="siva" value="" />
         <entry key="sivart" value="" />
         <entry key="sivel-test" value="" />
-        <entry key="six" value="" />
+        <entry key="six" value="1.10.0" />
         <entry key="sixelplot" value="" />
         <entry key="sixelterm" value="" />
         <entry key="sixer" value="" />
@@ -80112,7 +80112,7 @@
         <entry key="tormon" value="" />
         <entry key="torn" value="" />
         <entry key="tornadis" value="" />
-        <entry key="tornado" value="" />
+        <entry key="tornado" value="4.4.1" />
         <entry key="tornado-alf" value="" />
         <entry key="tornado-api-kit" value="" />
         <entry key="tornado-aws" value="" />
